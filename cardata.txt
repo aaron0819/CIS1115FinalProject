@@ -1,0 +1,1000 @@
+Lincoln,          2008,          White,          Full-Size,          Rented due back in One Day
+Buick,          2005,          White,          Full-Size,          Available
+Cadillac,          2011,          Green,          Compact,          Available
+Pontiac,          2007,          Yellow,          Full-Size,          Rented due back in Two Days
+Pontiac,          1998,          Red,          Compact,          Rented due back in One Day
+Buick,          2010,          Black,          Mid-Size,          Available
+Lincoln,          2004,          Green,          Full-Size,          Rented due back in Two Days
+Buick,          2006,          Black,          Full-Size,          Rented due back in Two Days
+Ram,          2001,          Gray,          Full-Size,          Available
+Ram,          2007,          Red,          Compact,          Available
+Jeep,          2004,          Gray,          Mid-Size,          Available
+Lincoln,          2008,          Green,          Mid-Size,          Rented due back in Three Days
+Cadillac,          2007,          Green,          Mid-Size,          Available
+Dodge,          2006,          White,          Full-Size,          Rented due back in More Than Three Days
+Pontiac,          2008,          Blue,          Full-Size,          Available
+Cadillac,          2000,          Yellow,          Full-Size,          Rented due back in More Than Three Days
+Jeep,          2007,          White,          Mid-Size,          Rented due back in Less Than One Day
+Ford,          2010,          Green,          Full-Size,          Available
+Cadillac,          1999,          Yellow,          Compact,          Available
+Buick,          2012,          Blue,          Mid-Size,          Rented due back in One Day
+Pontiac,          1998,          Red,          Full-Size,          Rented due back in Less Than One Day
+Buick,          2011,          Red,          Mid-Size,          Available
+Buick,          2009,          Black,          Mid-Size,          Available
+Dodge,          2004,          Blue,          Full-Size,          Rented due back in Less Than One Day
+Ford,          1999,          White,          Compact,          Rented due back in More Than Three Days
+Cadillac,          2008,          Gray,          Mid-Size,          Available
+Cadillac,          2007,          Green,          Compact,          Rented due back in Three Days
+Dodge,          1999,          Green,          Mid-Size,          Available
+Ram,          2005,          Gray,          Full-Size,          Rented due back in More Than Three Days
+Cadillac,          1998,          Green,          Full-Size,          Available
+Cadillac,          2012,          Blue,          Compact,          Damaged undergoing repairs Less Than One Day
+Ford,          1998,          Blue,          Mid-Size,          Available
+Jeep,          2008,          Yellow,          Full-Size,          Rented due back in Three Days
+Pontiac,          2004,          Black,          Compact,          Rented due back in More Than Three Days
+Lincoln,          2001,          Gray,          Full-Size,          Rented due back in Less Than One Day
+Jeep,          2005,          Green,          Full-Size,          Available
+Buick,          2005,          Black,          Full-Size,          Available
+Cadillac,          2011,          White,          Mid-Size,          Available
+Dodge,          2003,          Red,          Full-Size,          Rented due back in One Day
+Dodge,          2004,          Gray,          Mid-Size,          Available
+Dodge,          2005,          White,          Compact,          Rented due back in Less Than One Day
+Lincoln,          2009,          Red,          Full-Size,          Available
+Jeep,          1999,          Black,          Full-Size,          Rented due back in Two Days
+Dodge,          2005,          Black,          Compact,          Rented due back in Three Days
+Buick,          2010,          Yellow,          Compact,          Available
+Buick,          2011,          White,          Compact,          Rented due back in Less Than One Day
+Ford,          2002,          Red,          Compact,          Available
+Ford,          2009,          Black,          Full-Size,          Available
+Ford,          2004,          Yellow,          Compact,          Rented due back in Three Days
+Ram,          2001,          Red,          Mid-Size,          Available
+Pontiac,          2004,          Red,          Full-Size,          Rented due back in More Than Three Days
+Pontiac,          2000,          Red,          Full-Size,          Available
+Ram,          2010,          Gray,          Mid-Size,          Rented due back in Two Days
+Ram,          2007,          Green,          Compact,          Available
+Buick,          2000,          Green,          Compact,          Rented due back in Three Days
+Dodge,          2005,          Yellow,          Mid-Size,          Rented due back in Less Than One Day
+Pontiac,          2000,          Blue,          Full-Size,          Rented due back in Less Than One Day
+Jeep,          2002,          Yellow,          Compact,          Rented due back in Three Days
+Dodge,          2009,          Red,          Compact,          Rented due back in Three Days
+Dodge,          1998,          Green,          Mid-Size,          Available
+Chevrolet,          2009,          White,          Compact,          Available
+Ram,          2004,          Blue,          Compact,          Rented due back in More Than Three Days
+Ford,          2011,          Yellow,          Mid-Size,          Rented due back in Three Days
+Ram,          2007,          Yellow,          Mid-Size,          Available
+Jeep,          1998,          Green,          Full-Size,          Rented due back in Less Than One Day
+Ram,          2004,          Red,          Full-Size,          Damaged undergoing repairs
+Ram,          2007,          Black,          Mid-Size,          Rented due back in More Than Three Days
+Cadillac,          2006,          Gray,          Compact,          Rented due back in Three Days
+Dodge,          2002,          Blue,          Full-Size,          Available
+Ford,          2008,          Gray,          Mid-Size,          Rented due back in Two Days
+Cadillac,          1998,          Green,          Mid-Size,          Rented due back in Less Than One Day
+Pontiac,          2009,          Black,          Mid-Size,          Available
+Dodge,          2005,          Green,          Compact,          Available
+Lincoln,          2006,          Blue,          Full-Size,          Available
+Cadillac,          2004,          Blue,          Mid-Size,          Available
+Ford,          2001,          Yellow,          Full-Size,          Available
+Ford,          1999,          Black,          Mid-Size,          Rented due back in Three Days
+Ram,          1999,          Black,          Compact,          Rented due back in Two Days
+Dodge,          2006,          Yellow,          Mid-Size,          Rented due back in Three Days
+Lincoln,          2011,          Green,          Full-Size,          Rented due back in More Than Three Days
+Ram,          2010,          Black,          Compact,          Rented due back in Less Than One Day
+Pontiac,          2010,          Gray,          Mid-Size,          Rented due back in Three Days
+Ram,          2005,          Blue,          Mid-Size,          Rented due back in Less Than One Day
+Ford,          2010,          Red,          Mid-Size,          Available
+Pontiac,          2005,          Gray,          Mid-Size,          Available
+Ram,          2008,          Green,          Compact,          Rented due back in One Day
+Buick,          1998,          Red,          Full-Size,          Rented due back in Two Days
+Cadillac,          2011,          Black,          Full-Size,          Rented due back in One Day
+Ford,          2012,          Gray,          Compact,          Rented due back in Three Days
+Pontiac,          1998,          Blue,          Mid-Size,          Rented due back in One Day
+Pontiac,          2007,          White,          Full-Size,          Rented due back in One Day
+Jeep,          2007,          Red,          Mid-Size,          Rented due back in Two Days
+Chevrolet,          2004,          Red,          Compact,          Available
+Buick,          2010,          Yellow,          Full-Size,          Rented due back in More Than Three Days
+Chevrolet,          2003,          Yellow,          Mid-Size,          Available
+Dodge,          2002,          Blue,          Mid-Size,          Available
+Ram,          2005,          Red,          Full-Size,          Available
+Ford,          2010,          Black,          Mid-Size,          Available
+Cadillac,          2006,          Yellow,          Mid-Size,          Rented due back in One Day
+Pontiac,          2009,          White,          Mid-Size,          Available
+Ford,          2007,          Black,          Full-Size,          Available
+Cadillac,          1999,          Blue,          Compact,          Available
+Chevrolet,          2001,          Red,          Compact,          Rented due back in One Day
+Jeep,          2008,          Red,          Mid-Size,          Available
+Pontiac,          1999,          Gray,          Full-Size,          Rented due back in Three Days
+Lincoln,          2000,          Green,          Mid-Size,          Available
+Dodge,          2002,          Yellow,          Full-Size,          Available
+Dodge,          2010,          Black,          Mid-Size,          Rented due back in Three Days
+Ford,          2002,          Blue,          Full-Size,          Available
+Chevrolet,          2000,          White,          Full-Size,          Rented due back in Less Than One Day
+Pontiac,          2000,          Black,          Full-Size,          Rented due back in One Day
+Buick,          2009,          White,          Mid-Size,          Rented due back in More Than Three Days
+Cadillac,          2011,          Red,          Mid-Size,          Rented due back in One Day
+Jeep,          2001,          White,          Compact,          Available
+Ford,          2009,          Gray,          Mid-Size,          Rented due back in More Than Three Days
+Jeep,          2001,          Gray,          Compact,          Available
+Buick,          2002,          Green,          Compact,          Available
+Lincoln,          2000,          Yellow,          Mid-Size,          Rented due back in Three Days
+Pontiac,          2010,          Blue,          Full-Size,          Available
+Pontiac,          2004,          Blue,          Full-Size,          Rented due back in Less Than One Day
+Buick,          2011,          Red,          Full-Size,          Available
+Cadillac,          2006,          Yellow,          Full-Size,          Available
+Pontiac,          2005,          Red,          Mid-Size,          Available
+Buick,          2007,          Black,          Mid-Size,          Available
+Ford,          2006,          Red,          Mid-Size,          Available
+Lincoln,          2011,          White,          Compact,          Rented due back in More Than Three Days
+Cadillac,          2007,          Green,          Mid-Size,          Rented due back in Two Days
+Lincoln,          2001,          Gray,          Mid-Size,          Available
+Jeep,          1999,          Yellow,          Full-Size,          Available
+Chevrolet,          2002,          Red,          Compact,          Available
+Chevrolet,          2001,          White,          Mid-Size,          Available
+Ford,          2002,          Gray,          Mid-Size,          Available
+Jeep,          2008,          Green,          Compact,          Rented due back in More Than Three Days
+Chevrolet,          2001,          Yellow,          Compact,          Rented due back in More Than Three Days
+Dodge,          2002,          Red,          Full-Size,          Rented due back in One Day
+Jeep,          2005,          White,          Compact,          Rented due back in Less Than One Day
+Chevrolet,          2002,          Gray,          Full-Size,          Available
+Cadillac,          2010,          White,          Mid-Size,          Available
+Dodge,          2012,          Gray,          Full-Size,          Available
+Buick,          2010,          Green,          Compact,          Rented due back in Less Than One Day
+Dodge,          2011,          Green,          Mid-Size,          Available
+Cadillac,          2011,          Red,          Mid-Size,          Rented due back in Three Days
+Cadillac,          2002,          Yellow,          Full-Size,          Available
+Cadillac,          2006,          Black,          Compact,          Rented due back in More Than Three Days
+Chevrolet,          2011,          Yellow,          Full-Size,          Rented due back in Three Days
+Lincoln,          2004,          Yellow,          Mid-Size,          Available
+Buick,          2012,          Blue,          Compact,          Available
+Pontiac,          2003,          Black,          Full-Size,          Available
+Pontiac,          2011,          Red,          Compact,          Available
+Cadillac,          2011,          Green,          Mid-Size,          Available
+Dodge,          2011,          Gray,          Compact,          Available
+Ram,          2005,          Yellow,          Compact,          Available
+Chevrolet,          1999,          Yellow,          Full-Size,          Available
+Chevrolet,          2000,          White,          Compact,          Rented due back in More Than Three Days
+Chevrolet,          2003,          Red,          Mid-Size,          Available
+Buick,          2001,          Black,          Mid-Size,          Rented due back in More Than Three Days
+Jeep,          1999,          Black,          Full-Size,          Available
+Ram,          2004,          Black,          Mid-Size,          Available
+Ford,          2000,          Blue,          Compact,          Rented due back in More Than Three Days
+Ford,          2007,          Black,          Full-Size,          Rented due back in More Than Three Days
+Ford,          2011,          Black,          Mid-Size,          Rented due back in Three Days
+Jeep,          2007,          Red,          Mid-Size,          Available
+Pontiac,          1998,          White,          Compact,          Available
+Lincoln,          2002,          Blue,          Compact,          Damaged undergoing repairs Two Days
+Dodge,          2009,          Green,          Full-Size,          Available
+Cadillac,          1998,          Blue,          Mid-Size,          Available
+Buick,          2009,          Blue,          Mid-Size,          Rented due back in Three Days
+Cadillac,          2012,          Yellow,          Compact,          Rented due back in Two Days
+Jeep,          1998,          Red,          Full-Size,          Rented due back in Less Than One Day
+Pontiac,          1998,          Yellow,          Full-Size,          Rented due back in More Than Three Days
+Buick,          1999,          Blue,          Mid-Size,          Available
+Cadillac,          2002,          Yellow,          Compact,          Rented due back in Three Days
+Chevrolet,          2002,          Yellow,          Mid-Size,          Rented due back in Two Days
+Chevrolet,          2005,          Black,          Mid-Size,          Available
+Chevrolet,          2001,          Red,          Compact,          Rented due back in Two Days
+Chevrolet,          2008,          Green,          Full-Size,          Available
+Buick,          2001,          Gray,          Compact,          Available
+Dodge,          2010,          White,          Compact,          Available
+Ram,          2007,          Green,          Compact,          Rented due back in One Day
+Lincoln,          2003,          Black,          Compact,          Available
+Dodge,          2012,          Blue,          Full-Size,          Rented due back in Two Days
+Chevrolet,          2011,          Yellow,          Full-Size,          Rented due back in More Than Three Days
+Ram,          2011,          Blue,          Mid-Size,          Rented due back in More Than Three Days
+Ford,          2011,          Gray,          Full-Size,          Rented due back in More Than Three Days
+Dodge,          2005,          White,          Mid-Size,          Available
+Buick,          2001,          Black,          Mid-Size,          Rented due back in More Than Three Days
+Cadillac,          2004,          Black,          Full-Size,          Rented due back in Two Days
+Dodge,          2007,          Blue,          Full-Size,          Rented due back in Three Days
+Chevrolet,          2008,          Green,          Compact,          Rented due back in Three Days
+Ford,          1999,          Green,          Compact,          Rented due back in Three Days
+Lincoln,          2003,          Green,          Mid-Size,          Available
+Jeep,          2012,          Yellow,          Compact,          Rented due back in Less Than One Day
+Chevrolet,          2011,          Black,          Mid-Size,          Rented due back in Three Days
+Dodge,          2000,          Yellow,          Full-Size,          Rented due back in More Than Three Days
+Buick,          2003,          Black,          Compact,          Available
+Ram,          1998,          Black,          Mid-Size,          Available
+Pontiac,          2005,          Blue,          Full-Size,          Rented due back in Two Days
+Cadillac,          1999,          Green,          Full-Size,          Rented due back in Two Days
+Ford,          2009,          Green,          Full-Size,          Rented due back in Less Than One Day
+Pontiac,          2010,          White,          Full-Size,          Rented due back in Less Than One Day
+Jeep,          2000,          Green,          Full-Size,          Available
+Lincoln,          2006,          Red,          Compact,          Rented due back in Less Than One Day
+Ford,          2012,          Yellow,          Compact,          Rented due back in One Day
+Ram,          2006,          Gray,          Compact,          Rented due back in Three Days
+Pontiac,          2009,          Gray,          Full-Size,          Available
+Cadillac,          2007,          White,          Full-Size,          Available
+Buick,          2000,          Yellow,          Compact,          Available
+Dodge,          2010,          Yellow,          Full-Size,          Rented due back in Less Than One Day
+Lincoln,          2005,          Yellow,          Full-Size,          Available
+Cadillac,          2000,          Black,          Full-Size,          Available
+Dodge,          2000,          Gray,          Full-Size,          Available
+Jeep,          2006,          Yellow,          Compact,          Available
+Ford,          2009,          Green,          Mid-Size,          Available
+Cadillac,          2011,          Red,          Mid-Size,          Rented due back in Three Days
+Ram,          2010,          Blue,          Compact,          Available
+Pontiac,          1999,          White,          Compact,          Available
+Ram,          2002,          Green,          Full-Size,          Rented due back in Two Days
+Dodge,          2011,          Red,          Full-Size,          Available
+Chevrolet,          2009,          White,          Compact,          Available
+Pontiac,          1998,          Green,          Compact,          Available
+Buick,          2009,          Black,          Compact,          Rented due back in Three Days
+Jeep,          2011,          Blue,          Compact,          Rented due back in Less Than One Day
+Cadillac,          1998,          Gray,          Full-Size,          Available
+Chevrolet,          2001,          White,          Compact,          Available
+Jeep,          2002,          White,          Full-Size,          Available
+Lincoln,          1998,          Green,          Compact,          Rented due back in Two Days
+Buick,          2000,          Red,          Mid-Size,          Rented due back in One Day
+Lincoln,          1999,          White,          Compact,          Rented due back in More Than Three Days
+Buick,          2001,          Green,          Mid-Size,          Rented due back in More Than Three Days
+Ford,          2001,          Green,          Compact,          Rented due back in More Than Three Days
+Dodge,          2008,          Gray,          Full-Size,          Available
+Lincoln,          2011,          Gray,          Full-Size,          Available
+Buick,          2008,          Yellow,          Compact,          Available
+Pontiac,          2006,          White,          Mid-Size,          Rented due back in More Than Three Days
+Pontiac,          2000,          Yellow,          Compact,          Available
+Jeep,          2003,          Black,          Full-Size,          Available
+Buick,          1998,          Black,          Full-Size,          Available
+Jeep,          2000,          White,          Compact,          Available
+Cadillac,          2009,          Blue,          Mid-Size,          Available
+Ram,          2004,          Blue,          Mid-Size,          Rented due back in Two Days
+Ford,          2012,          Black,          Mid-Size,          Available
+Pontiac,          2010,          Blue,          Mid-Size,          Rented due back in Two Days
+Ram,          1999,          Green,          Full-Size,          Rented due back in Three Days
+Ford,          1999,          Gray,          Mid-Size,          Rented due back in Less Than One Day
+Dodge,          2007,          White,          Full-Size,          Available
+Ram,          2010,          Blue,          Full-Size,          Available
+Jeep,          2009,          Blue,          Mid-Size,          Rented due back in Two Days
+Ram,          2007,          Yellow,          Compact,          Rented due back in More Than Three Days
+Dodge,          2008,          Black,          Compact,          Rented due back in Less Than One Day
+Chevrolet,          2010,          White,          Full-Size,          Available
+Jeep,          2002,          Blue,          Full-Size,          Available
+Ram,          2002,          Blue,          Mid-Size,          Available
+Buick,          2009,          Gray,          Full-Size,          Available
+Chevrolet,          1999,          Red,          Full-Size,          Available
+Buick,          2011,          Blue,          Full-Size,          Available
+Ram,          2009,          Red,          Full-Size,          Available
+Pontiac,          2009,          White,          Mid-Size,          Available
+Buick,          2007,          Red,          Full-Size,          Available
+Buick,          1999,          Gray,          Mid-Size,          Rented due back in Three Days
+Pontiac,          2000,          Yellow,          Compact,          Available
+Cadillac,          2010,          Black,          Compact,          Available
+Ram,          2008,          Red,          Compact,          Rented due back in Two Days
+Chevrolet,          2000,          Black,          Mid-Size,          Rented due back in Two Days
+Pontiac,          2003,          Red,          Compact,          Available
+Ford,          2000,          Yellow,          Full-Size,          Rented due back in Less Than One Day
+Dodge,          2003,          White,          Compact,          Available
+Ram,          2003,          Gray,          Full-Size,          Available
+Cadillac,          1999,          Black,          Compact,          Available
+Ford,          2009,          Black,          Compact,          Available
+Pontiac,          2006,          Blue,          Compact,          Available
+Cadillac,          2001,          Black,          Mid-Size,          Rented due back in Less Than One Day
+Pontiac,          2010,          Yellow,          Mid-Size,          Available
+Pontiac,          2011,          Red,          Full-Size,          Rented due back in One Day
+Dodge,          1999,          Gray,          Compact,          Rented due back in Less Than One Day
+Chevrolet,          2006,          Red,          Mid-Size,          Available
+Ford,          2009,          Black,          Compact,          Rented due back in Less Than One Day
+Dodge,          2010,          Red,          Full-Size,          Rented due back in Three Days
+Chevrolet,          2011,          Blue,          Full-Size,          Rented due back in Three Days
+Ram,          2003,          Black,          Compact,          Rented due back in More Than Three Days
+Dodge,          1998,          Yellow,          Full-Size,          Available
+Ram,          1999,          Green,          Full-Size,          Rented due back in Less Than One Day
+Chevrolet,          2008,          Yellow,          Compact,          Available
+Buick,          2003,          Blue,          Full-Size,          Rented due back in Three Days
+Jeep,          2008,          Blue,          Full-Size,          Rented due back in One Day
+Jeep,          2003,          Blue,          Mid-Size,          Rented due back in Two Days
+Cadillac,          2010,          Black,          Compact,          Available
+Cadillac,          2012,          Green,          Mid-Size,          Available
+Dodge,          2000,          Green,          Full-Size,          Rented due back in Two Days
+Ford,          2009,          White,          Mid-Size,          Available
+Chevrolet,          2011,          Green,          Compact,          Rented due back in Three Days
+Dodge,          2008,          Black,          Mid-Size,          Rented due back in Three Days
+Dodge,          2008,          White,          Compact,          Rented due back in Two Days
+Chevrolet,          1999,          White,          Full-Size,          Rented due back in Two Days
+Buick,          2012,          Red,          Full-Size,          Available
+Ram,          2001,          Green,          Compact,          Rented due back in Less Than One Day
+Jeep,          2010,          Green,          Compact,          Rented due back in Two Days
+Dodge,          2011,          Gray,          Compact,          Rented due back in One Day
+Lincoln,          2007,          Blue,          Full-Size,          Available
+Jeep,          2009,          Black,          Full-Size,          Rented due back in One Day
+Jeep,          2003,          Yellow,          Full-Size,          Rented due back in Three Days
+Buick,          2001,          Black,          Mid-Size,          Available
+Lincoln,          2002,          Blue,          Compact,          Available
+Ford,          2011,          Gray,          Compact,          Available
+Dodge,          2000,          Black,          Full-Size,          Available
+Cadillac,          2007,          White,          Full-Size,          Available
+Jeep,          1998,          Yellow,          Full-Size,          Available
+Dodge,          2005,          White,          Compact,          Rented due back in Less Than One Day
+Jeep,          2007,          White,          Compact,          Rented due back in Three Days
+Ram,          2000,          Black,          Full-Size,          Rented due back in More Than Three Days
+Dodge,          2003,          Black,          Full-Size,          Rented due back in More Than Three Days
+Jeep,          1999,          Green,          Full-Size,          Rented due back in More Than Three Days
+Pontiac,          2012,          Green,          Mid-Size,          Rented due back in Two Days
+Jeep,          2007,          Red,          Mid-Size,          Available
+Ford,          2010,          Blue,          Mid-Size,          Available
+Dodge,          2002,          White,          Compact,          Available
+Ram,          2011,          Red,          Mid-Size,          Available
+Cadillac,          2003,          Yellow,          Full-Size,          Available
+Ford,          2002,          Green,          Mid-Size,          Available
+Chevrolet,          2001,          White,          Full-Size,          Rented due back in Three Days
+Chevrolet,          2001,          Red,          Full-Size,          Rented due back in Two Days
+Pontiac,          2003,          Gray,          Full-Size,          Rented due back in One Day
+Ram,          2006,          Yellow,          Full-Size,          Available
+Pontiac,          2004,          Red,          Full-Size,          Available
+Lincoln,          2003,          White,          Compact,          Available
+Cadillac,          2001,          Red,          Compact,          Available
+Jeep,          2003,          Blue,          Full-Size,          Available
+Pontiac,          2007,          Gray,          Full-Size,          Available
+Dodge,          2007,          Black,          Mid-Size,          Available
+Jeep,          2010,          Black,          Compact,          Rented due back in One Day
+Dodge,          2004,          Gray,          Compact,          Rented due back in One Day
+Ram,          2002,          Red,          Full-Size,          Rented due back in Two Days
+Buick,          2009,          Yellow,          Mid-Size,          Available
+Buick,          2010,          Blue,          Compact,          Rented due back in Less Than One Day
+Ford,          2004,          White,          Full-Size,          Rented due back in Two Days
+Cadillac,          2003,          Black,          Full-Size,          Rented due back in Three Days
+Jeep,          2005,          Gray,          Mid-Size,          Available
+Pontiac,          2010,          Green,          Compact,          Available
+Ram,          2009,          Blue,          Mid-Size,          Rented due back in Less Than One Day
+Chevrolet,          2000,          Blue,          Compact,          Available
+Chevrolet,          2002,          Gray,          Full-Size,          Rented due back in Two Days
+Pontiac,          2000,          Red,          Mid-Size,          Available
+Chevrolet,          2009,          Blue,          Mid-Size,          Available
+Jeep,          2008,          Blue,          Full-Size,          Rented due back in Three Days
+Ford,          1999,          Red,          Mid-Size,          Rented due back in More Than Three Days
+Pontiac,          2005,          Blue,          Mid-Size,          Rented due back in More Than Three Days
+Cadillac,          2005,          White,          Mid-Size,          Rented due back in Two Days
+Jeep,          2012,          Black,          Mid-Size,          Available
+Ram,          2010,          White,          Mid-Size,          Rented due back in Three Days
+Pontiac,          2002,          Red,          Mid-Size,          Rented due back in More Than Three Days
+Dodge,          1998,          Gray,          Full-Size,          Rented due back in Less Than One Day
+Cadillac,          2011,          White,          Full-Size,          Available
+Cadillac,          1998,          Gray,          Mid-Size,          Available
+Ford,          1999,          Blue,          Mid-Size,          Available
+Ford,          2006,          Green,          Full-Size,          Rented due back in Less Than One Day
+Chevrolet,          2012,          Green,          Full-Size,          Available
+Ford,          2005,          Green,          Compact,          Rented due back in More Than Three Days
+Jeep,          2011,          Red,          Full-Size,          Available
+Pontiac,          2012,          White,          Full-Size,          Rented due back in One Day
+Lincoln,          1999,          Black,          Compact,          Available
+Buick,          2009,          Gray,          Compact,          Available
+Ford,          2009,          Gray,          Compact,          Available
+Cadillac,          2011,          Blue,          Full-Size,          Available
+Pontiac,          2003,          White,          Full-Size,          Available
+Buick,          2001,          White,          Full-Size,          Rented due back in Two Days
+Ram,          2004,          Black,          Mid-Size,          Rented due back in One Day
+Ram,          2008,          Red,          Full-Size,          Rented due back in Two Days
+Buick,          2010,          Gray,          Mid-Size,          Rented due back in Less Than One Day
+Cadillac,          2003,          Black,          Full-Size,          Rented due back in More Than Three Days
+Ram,          2006,          White,          Compact,          Rented due back in Three Days
+Ram,          2008,          Red,          Mid-Size,          Rented due back in More Than Three Days
+Chevrolet,          2003,          Gray,          Compact,          Rented due back in One Day
+Dodge,          2001,          Black,          Compact,          Available
+Buick,          2004,          Green,          Full-Size,          Rented due back in Three Days
+Chevrolet,          2001,          White,          Mid-Size,          Rented due back in Three Days
+Jeep,          2005,          Green,          Mid-Size,          Rented due back in Three Days
+Ram,          2008,          Gray,          Mid-Size,          Rented due back in Two Days
+Pontiac,          2006,          Red,          Full-Size,          Available
+Dodge,          2003,          Green,          Full-Size,          Rented due back in One Day
+Chevrolet,          2000,          Black,          Full-Size,          Available
+Buick,          2005,          Yellow,          Mid-Size,          Rented due back in Less Than One Day
+Ram,          1998,          Blue,          Compact,          Rented due back in More Than Three Days
+Chevrolet,          2007,          Gray,          Full-Size,          Rented due back in One Day
+Pontiac,          2003,          White,          Mid-Size,          Available
+Buick,          1998,          Black,          Full-Size,          Available
+Dodge,          2003,          Blue,          Full-Size,          Rented due back in More Than Three Days
+Lincoln,          2012,          Green,          Mid-Size,          Available
+Jeep,          2001,          Green,          Full-Size,          Available
+Cadillac,          2009,          Blue,          Compact,          Available
+Buick,          2008,          Black,          Full-Size,          Rented due back in More Than Three Days
+Buick,          2005,          Green,          Mid-Size,          Rented due back in More Than Three Days
+Dodge,          2007,          Black,          Full-Size,          Available
+Chevrolet,          1998,          Blue,          Mid-Size,          Rented due back in One Day
+Cadillac,          2010,          Black,          Full-Size,          Rented due back in Three Days
+Ram,          2003,          Black,          Mid-Size,          Available
+Buick,          2006,          Green,          Full-Size,          Rented due back in Less Than One Day
+Buick,          2005,          Blue,          Full-Size,          Available
+Jeep,          2008,          Blue,          Compact,          Rented due back in Less Than One Day
+Jeep,          2000,          Green,          Full-Size,          Available
+Ford,          1998,          Gray,          Compact,          Available
+Dodge,          2002,          White,          Full-Size,          Rented due back in Three Days
+Jeep,          2007,          Green,          Compact,          Available
+Cadillac,          1999,          Red,          Mid-Size,          Rented due back in Two Days
+Ram,          2007,          Black,          Full-Size,          Available
+Buick,          2011,          Red,          Full-Size,          Rented due back in Three Days
+Jeep,          2010,          Green,          Mid-Size,          Rented due back in One Day
+Chevrolet,          2008,          Gray,          Mid-Size,          Available
+Cadillac,          2012,          Gray,          Compact,          Available
+Ram,          1998,          Red,          Full-Size,          Available
+Ford,          2009,          Green,          Mid-Size,          Rented due back in Two Days
+Chevrolet,          2007,          Black,          Mid-Size,          Available
+Chevrolet,          2001,          White,          Full-Size,          Available
+Cadillac,          2009,          Blue,          Full-Size,          Available
+Pontiac,          1999,          Black,          Full-Size,          Rented due back in More Than Three Days
+Chevrolet,          2003,          Black,          Compact,          Rented due back in More Than Three Days
+Pontiac,          2001,          Green,          Compact,          Rented due back in Three Days
+Jeep,          2009,          Green,          Mid-Size,          Available
+Jeep,          2002,          Red,          Mid-Size,          Rented due back in Three Days
+Pontiac,          2004,          Blue,          Full-Size,          Available
+Buick,          2011,          White,          Mid-Size,          Available
+Ford,          2004,          Gray,          Full-Size,          Rented due back in Three Days
+Lincoln,          2009,          Gray,          Compact,          Available
+Dodge,          2008,          Black,          Mid-Size,          Available
+Buick,          2011,          Green,          Full-Size,          Available
+Buick,          2003,          Gray,          Mid-Size,          Available
+Pontiac,          2004,          Red,          Mid-Size,          Available
+Jeep,          2008,          Red,          Mid-Size,          Available
+Pontiac,          2008,          White,          Mid-Size,          Available
+Buick,          2012,          Red,          Full-Size,          Rented due back in Two Days
+Chevrolet,          1998,          Yellow,          Compact,          Rented due back in More Than Three Days
+Chevrolet,          2009,          White,          Mid-Size,          Available
+Cadillac,          2008,          Green,          Compact,          Rented due back in Less Than One Day
+Buick,          1999,          Yellow,          Full-Size,          Available
+Jeep,          1998,          Black,          Compact,          Available
+Ram,          1999,          White,          Compact,          Rented due back in Three Days
+Ford,          2012,          Red,          Full-Size,          Rented due back in Less Than One Day
+Lincoln,          2011,          Blue,          Compact,          Rented due back in Three Days
+Lincoln,          2012,          Gray,          Full-Size,          Available
+Ford,          2001,          Green,          Mid-Size,          Available
+Buick,          2002,          Gray,          Full-Size,          Available
+Buick,          2010,          Gray,          Full-Size,          Rented due back in One Day
+Ram,          2002,          Black,          Full-Size,          Available
+Buick,          2008,          Gray,          Full-Size,          Rented due back in Three Days
+Ford,          2007,          Red,          Full-Size,          Available
+Ram,          2002,          Green,          Mid-Size,          Available
+Pontiac,          2004,          Yellow,          Full-Size,          Rented due back in One Day
+Chevrolet,          2001,          Blue,          Mid-Size,          Rented due back in More Than Three Days
+Chevrolet,          2002,          Blue,          Full-Size,          Available
+Ford,          2005,          Gray,          Full-Size,          Rented due back in Less Than One Day
+Chevrolet,          2002,          White,          Mid-Size,          Rented due back in More Than Three Days
+Ram,          2007,          Yellow,          Mid-Size,          Rented due back in One Day
+Lincoln,          1999,          White,          Mid-Size,          Rented due back in Two Days
+Cadillac,          2001,          Black,          Compact,          Available
+Ram,          2010,          Gray,          Compact,          Rented due back in Less Than One Day
+Buick,          2007,          Green,          Full-Size,          Rented due back in One Day
+Dodge,          2010,          Yellow,          Compact,          Rented due back in Less Than One Day
+Ram,          2002,          Gray,          Full-Size,          Available
+Cadillac,          2012,          Green,          Full-Size,          Available
+Chevrolet,          2006,          Blue,          Full-Size,          Rented due back in Two Days
+Dodge,          2008,          Yellow,          Compact,          Available
+Dodge,          1999,          Yellow,          Compact,          Available
+Buick,          2001,          Gray,          Mid-Size,          Rented due back in More Than Three Days
+Jeep,          2005,          Blue,          Mid-Size,          Available
+Ford,          1999,          Green,          Compact,          Available
+Jeep,          2000,          White,          Full-Size,          Available
+Dodge,          2008,          Gray,          Compact,          Rented due back in Less Than One Day
+Dodge,          2006,          Blue,          Full-Size,          Rented due back in One Day
+Pontiac,          2005,          Red,          Full-Size,          Rented due back in More Than Three Days
+Ford,          1999,          Blue,          Compact,          Rented due back in Less Than One Day
+Pontiac,          2001,          Black,          Compact,          Available
+Dodge,          1999,          Yellow,          Full-Size,          Available
+Chevrolet,          2004,          Green,          Compact,          Rented due back in Less Than One Day
+Cadillac,          2011,          Black,          Mid-Size,          Available
+Dodge,          2008,          Red,          Mid-Size,          Available
+Buick,          1999,          Blue,          Compact,          Available
+Pontiac,          2005,          Red,          Compact,          Rented due back in More Than Three Days
+Chevrolet,          2012,          Blue,          Compact,          Rented due back in Three Days
+Pontiac,          2010,          Yellow,          Full-Size,          Available
+Pontiac,          2009,          Gray,          Mid-Size,          Available
+Lincoln,          2001,          Black,          Compact,          Available
+Pontiac,          2006,          Gray,          Mid-Size,          Rented due back in Two Days
+Jeep,          2003,          Red,          Full-Size,          Rented due back in Three Days
+Buick,          2011,          White,          Full-Size,          Available
+Dodge,          2004,          White,          Mid-Size,          Available
+Lincoln,          2009,          Red,          Full-Size,          Rented due back in Less Than One Day
+Buick,          2002,          Yellow,          Full-Size,          Rented due back in One Day
+Cadillac,          2004,          Black,          Mid-Size,          Rented due back in One Day
+Pontiac,          2003,          Yellow,          Full-Size,          Available
+Dodge,          2007,          Red,          Compact,          Available
+Lincoln,          2004,          Black,          Compact,          Rented due back in One Day
+Chevrolet,          2008,          Blue,          Compact,          Available
+Pontiac,          2012,          Green,          Compact,          Available
+Pontiac,          2008,          Gray,          Mid-Size,          Damaged undergoing repairs
+Jeep,          2010,          Gray,          Compact,          Rented due back in One Day
+Lincoln,          2007,          White,          Mid-Size,          Rented due back in Less Than One Day
+Ram,          2009,          Blue,          Mid-Size,          Available
+Ram,          2008,          Red,          Full-Size,          Rented due back in Two Days
+Cadillac,          2000,          White,          Full-Size,          Rented due back in One Day
+Jeep,          2008,          Yellow,          Compact,          Available
+Ram,          2006,          White,          Compact,          Available
+Cadillac,          2004,          Green,          Mid-Size,          Damaged undergoing repairs Less Than One Day
+Dodge,          2011,          Green,          Full-Size,          Available
+Jeep,          1999,          Yellow,          Mid-Size,          Available
+Buick,          2001,          Gray,          Compact,          Rented due back in Two Days
+Chevrolet,          1999,          Red,          Compact,          Available
+Chevrolet,          2008,          Gray,          Mid-Size,          Available
+Dodge,          2008,          Gray,          Compact,          Rented due back in Three Days
+Pontiac,          2011,          White,          Full-Size,          Rented due back in Less Than One Day
+Lincoln,          2011,          Gray,          Mid-Size,          Rented due back in Less Than One Day
+Buick,          2002,          Red,          Full-Size,          Available
+Lincoln,          2011,          Red,          Mid-Size,          Available
+Buick,          2000,          Red,          Compact,          Rented due back in One Day
+Buick,          2008,          Gray,          Full-Size,          Rented due back in Two Days
+Jeep,          2012,          White,          Full-Size,          Available
+Pontiac,          2005,          Yellow,          Full-Size,          Available
+Chevrolet,          2005,          Red,          Compact,          Rented due back in One Day
+Cadillac,          2005,          Black,          Compact,          Rented due back in Two Days
+Jeep,          2012,          Red,          Mid-Size,          Available
+Lincoln,          2005,          Red,          Compact,          Available
+Ram,          2003,          Red,          Mid-Size,          Rented due back in Less Than One Day
+Chevrolet,          2011,          Black,          Full-Size,          Available
+Ford,          2006,          White,          Full-Size,          Available
+Ram,          2001,          Red,          Mid-Size,          Available
+Jeep,          2001,          Green,          Full-Size,          Rented due back in One Day
+Chevrolet,          2008,          Green,          Compact,          Available
+Buick,          2000,          Blue,          Mid-Size,          Rented due back in Less Than One Day
+Buick,          1999,          Yellow,          Mid-Size,          Available
+Buick,          2012,          Black,          Mid-Size,          Rented due back in Two Days
+Cadillac,          2002,          Gray,          Compact,          Available
+Chevrolet,          2004,          Red,          Mid-Size,          Rented due back in More Than Three Days
+Buick,          2006,          Black,          Full-Size,          Rented due back in More Than Three Days
+Chevrolet,          2010,          Gray,          Mid-Size,          Rented due back in More Than Three Days
+Buick,          2005,          Yellow,          Compact,          Available
+Lincoln,          2011,          Gray,          Mid-Size,          Rented due back in Less Than One Day
+Dodge,          2009,          Gray,          Mid-Size,          Rented due back in Less Than One Day
+Ford,          2000,          Red,          Full-Size,          Available
+Buick,          2012,          Green,          Full-Size,          Available
+Ford,          2008,          Green,          Full-Size,          Available
+Buick,          2004,          White,          Compact,          Rented due back in More Than Three Days
+Cadillac,          2008,          White,          Mid-Size,          Rented due back in Less Than One Day
+Cadillac,          2002,          Green,          Mid-Size,          Available
+Ram,          1999,          Blue,          Mid-Size,          Rented due back in Two Days
+Lincoln,          2002,          Red,          Compact,          Available
+Buick,          2003,          Gray,          Mid-Size,          Rented due back in Three Days
+Buick,          2012,          Blue,          Compact,          Rented due back in Two Days
+Ford,          2007,          Yellow,          Compact,          Rented due back in Less Than One Day
+Jeep,          2004,          Green,          Compact,          Rented due back in More Than Three Days
+Dodge,          2009,          Gray,          Full-Size,          Available
+Cadillac,          2009,          Gray,          Full-Size,          Rented due back in One Day
+Lincoln,          2007,          Yellow,          Compact,          Rented due back in Less Than One Day
+Ford,          2003,          Blue,          Compact,          Rented due back in Less Than One Day
+Buick,          2012,          White,          Mid-Size,          Rented due back in One Day
+Ford,          2012,          Black,          Compact,          Rented due back in More Than Three Days
+Lincoln,          2012,          Green,          Full-Size,          Available
+Jeep,          2005,          Red,          Full-Size,          Rented due back in Less Than One Day
+Chevrolet,          2012,          White,          Mid-Size,          Rented due back in Three Days
+Ram,          2007,          Gray,          Mid-Size,          Available
+Jeep,          1999,          Black,          Full-Size,          Available
+Dodge,          2012,          Gray,          Compact,          Available
+Pontiac,          1998,          White,          Full-Size,          Available
+Lincoln,          2007,          Green,          Full-Size,          Available
+Lincoln,          2010,          Blue,          Mid-Size,          Available
+Pontiac,          2009,          Black,          Full-Size,          Rented due back in One Day
+Buick,          2007,          Yellow,          Full-Size,          Rented due back in Less Than One Day
+Cadillac,          2005,          Black,          Compact,          Rented due back in Two Days
+Ram,          2010,          White,          Full-Size,          Rented due back in Less Than One Day
+Ford,          2002,          Yellow,          Mid-Size,          Available
+Ford,          2003,          Gray,          Mid-Size,          Rented due back in Two Days
+Chevrolet,          2003,          Blue,          Mid-Size,          Rented due back in More Than Three Days
+Jeep,          2004,          White,          Compact,          Rented due back in Three Days
+Buick,          2002,          White,          Full-Size,          Available
+Buick,          2001,          Green,          Mid-Size,          Rented due back in More Than Three Days
+Pontiac,          2012,          Blue,          Full-Size,          Available
+Dodge,          2002,          Black,          Mid-Size,          Available
+Buick,          1998,          Green,          Full-Size,          Rented due back in Two Days
+Ram,          2010,          White,          Mid-Size,          Rented due back in Two Days
+Cadillac,          2000,          White,          Compact,          Rented due back in Two Days
+Chevrolet,          2008,          White,          Compact,          Available
+Jeep,          2009,          Gray,          Compact,          Available
+Ford,          2012,          Blue,          Full-Size,          Rented due back in One Day
+Chevrolet,          2000,          Black,          Compact,          Rented due back in More Than Three Days
+Lincoln,          2011,          Red,          Full-Size,          Rented due back in Less Than One Day
+Buick,          2003,          Yellow,          Compact,          Available
+Dodge,          2005,          Black,          Compact,          Rented due back in Less Than One Day
+Jeep,          2007,          Green,          Compact,          Available
+Jeep,          2000,          Red,          Full-Size,          Available
+Pontiac,          2002,          Black,          Compact,          Available
+Lincoln,          2010,          Gray,          Mid-Size,          Rented due back in Three Days
+Dodge,          2002,          Black,          Full-Size,          Available
+Pontiac,          2009,          Black,          Compact,          Rented due back in Three Days
+Chevrolet,          2010,          Red,          Compact,          Rented due back in One Day
+Lincoln,          2004,          Black,          Compact,          Rented due back in Two Days
+Pontiac,          2005,          White,          Compact,          Rented due back in Two Days
+Ford,          2001,          White,          Mid-Size,          Rented due back in More Than Three Days
+Ram,          2002,          Red,          Full-Size,          Available
+Dodge,          2004,          Yellow,          Full-Size,          Available
+Ram,          2011,          Red,          Full-Size,          Available
+Pontiac,          2005,          Yellow,          Full-Size,          Rented due back in Three Days
+Chevrolet,          2011,          Green,          Mid-Size,          Available
+Jeep,          2006,          Blue,          Mid-Size,          Rented due back in One Day
+Buick,          2009,          Gray,          Mid-Size,          Available
+Lincoln,          2001,          Red,          Mid-Size,          Rented due back in One Day
+Chevrolet,          2009,          Gray,          Mid-Size,          Available
+Cadillac,          2003,          Black,          Full-Size,          Available
+Dodge,          2005,          Blue,          Compact,          Rented due back in Two Days
+Chevrolet,          2012,          Blue,          Mid-Size,          Available
+Ram,          2006,          Red,          Compact,          Rented due back in Three Days
+Buick,          2006,          Yellow,          Compact,          Available
+Lincoln,          2006,          Black,          Mid-Size,          Available
+Dodge,          2003,          Red,          Mid-Size,          Available
+Jeep,          2004,          Gray,          Mid-Size,          Available
+Pontiac,          2012,          Red,          Full-Size,          Available
+Chevrolet,          2004,          Blue,          Mid-Size,          Available
+Dodge,          2012,          White,          Mid-Size,          Available
+Jeep,          2003,          Gray,          Mid-Size,          Rented due back in More Than Three Days
+Dodge,          1998,          White,          Compact,          Available
+Ram,          2010,          Red,          Compact,          Available
+Ram,          1999,          Red,          Compact,          Rented due back in More Than Three Days
+Ram,          2003,          Blue,          Compact,          Available
+Lincoln,          2001,          Black,          Compact,          Available
+Ram,          2010,          Gray,          Compact,          Available
+Cadillac,          1999,          Green,          Full-Size,          Available
+Cadillac,          2008,          Black,          Full-Size,          Available
+Buick,          1999,          Black,          Mid-Size,          Rented due back in One Day
+Ram,          2004,          White,          Full-Size,          Rented due back in Less Than One Day
+Ford,          2011,          White,          Full-Size,          Available
+Cadillac,          2008,          Gray,          Compact,          Rented due back in Less Than One Day
+Buick,          1999,          White,          Full-Size,          Available
+Ford,          2008,          Blue,          Mid-Size,          Rented due back in One Day
+Lincoln,          2012,          Green,          Compact,          Rented due back in More Than Three Days
+Lincoln,          2004,          Yellow,          Mid-Size,          Rented due back in More Than Three Days
+Jeep,          2011,          White,          Compact,          Rented due back in Three Days
+Pontiac,          2007,          Red,          Mid-Size,          Available
+Lincoln,          2000,          Gray,          Compact,          Rented due back in Two Days
+Dodge,          2006,          Blue,          Full-Size,          Available
+Dodge,          2002,          Yellow,          Full-Size,          Rented due back in Three Days
+Lincoln,          2012,          White,          Compact,          Available
+Dodge,          2010,          Black,          Mid-Size,          Available
+Cadillac,          2004,          White,          Compact,          Available
+Lincoln,          2002,          Red,          Full-Size,          Rented due back in Less Than One Day
+Buick,          2012,          Red,          Mid-Size,          Rented due back in More Than Three Days
+Jeep,          2006,          Black,          Mid-Size,          Rented due back in More Than Three Days
+Pontiac,          2004,          Red,          Full-Size,          Available
+Dodge,          2010,          Red,          Compact,          Available
+Pontiac,          1999,          Yellow,          Full-Size,          Rented due back in Two Days
+Dodge,          2004,          Red,          Compact,          Rented due back in Three Days
+Buick,          2008,          Green,          Compact,          Rented due back in Three Days
+Chevrolet,          1998,          Green,          Compact,          Available
+Ram,          2004,          Gray,          Full-Size,          Rented due back in More Than Three Days
+Lincoln,          2011,          Yellow,          Mid-Size,          Rented due back in More Than Three Days
+Lincoln,          2002,          Gray,          Full-Size,          Rented due back in Less Than One Day
+Buick,          2001,          Red,          Full-Size,          Available
+Ford,          1998,          White,          Compact,          Available
+Buick,          2007,          Gray,          Compact,          Available
+Jeep,          2004,          Red,          Compact,          Rented due back in More Than Three Days
+Ford,          2004,          Gray,          Full-Size,          Available
+Ram,          2008,          Green,          Full-Size,          Rented due back in One Day
+Buick,          2008,          White,          Mid-Size,          Available
+Buick,          2002,          White,          Mid-Size,          Available
+Cadillac,          2004,          White,          Compact,          Available
+Ram,          2003,          Yellow,          Mid-Size,          Rented due back in More Than Three Days
+Buick,          1998,          Gray,          Compact,          Rented due back in Two Days
+Cadillac,          2002,          Blue,          Compact,          Available
+Buick,          2009,          Blue,          Compact,          Available
+Dodge,          1999,          Red,          Compact,          Rented due back in Less Than One Day
+Jeep,          2007,          Black,          Mid-Size,          Rented due back in Less Than One Day
+Chevrolet,          1999,          Blue,          Compact,          Rented due back in Two Days
+Jeep,          2000,          Red,          Compact,          Available
+Buick,          2001,          Green,          Compact,          Rented due back in Two Days
+Buick,          2005,          Black,          Mid-Size,          Rented due back in Less Than One Day
+Jeep,          2002,          Green,          Compact,          Available
+Lincoln,          2009,          White,          Full-Size,          Rented due back in Three Days
+Ram,          2005,          Green,          Compact,          Rented due back in Less Than One Day
+Dodge,          1999,          Red,          Full-Size,          Damaged undergoing repairs
+Chevrolet,          2006,          Gray,          Full-Size,          Rented due back in Two Days
+Cadillac,          2008,          Yellow,          Compact,          Available
+Buick,          2011,          Red,          Mid-Size,          Rented due back in One Day
+Ram,          1999,          White,          Mid-Size,          Available
+Cadillac,          2006,          Gray,          Compact,          Available
+Cadillac,          2006,          Red,          Full-Size,          Rented due back in Three Days
+Buick,          2004,          Black,          Mid-Size,          Rented due back in More Than Three Days
+Jeep,          2003,          Black,          Compact,          Available
+Ford,          2007,          Yellow,          Mid-Size,          Available
+Ford,          2004,          Yellow,          Mid-Size,          Available
+Ram,          2008,          Blue,          Mid-Size,          Rented due back in One Day
+Lincoln,          2007,          White,          Full-Size,          Available
+Jeep,          2004,          Blue,          Compact,          Available
+Dodge,          2004,          Green,          Full-Size,          Rented due back in Three Days
+Ram,          2004,          Yellow,          Full-Size,          Available
+Cadillac,          1998,          Yellow,          Mid-Size,          Available
+Pontiac,          2004,          White,          Compact,          Available
+Pontiac,          2012,          Yellow,          Mid-Size,          Rented due back in Three Days
+Dodge,          2006,          Yellow,          Compact,          Available
+Cadillac,          2012,          Black,          Mid-Size,          Available
+Ford,          2009,          Blue,          Mid-Size,          Rented due back in Less Than One Day
+Ram,          2003,          Blue,          Full-Size,          Rented due back in More Than Three Days
+Jeep,          2000,          Black,          Mid-Size,          Rented due back in One Day
+Jeep,          1999,          Gray,          Mid-Size,          Available
+Pontiac,          2008,          Gray,          Full-Size,          Rented due back in Three Days
+Ram,          2009,          White,          Mid-Size,          Available
+Ford,          2007,          Black,          Full-Size,          Available
+Dodge,          1998,          Red,          Compact,          Rented due back in More Than Three Days
+Chevrolet,          2012,          Red,          Full-Size,          Rented due back in Two Days
+Pontiac,          2001,          Gray,          Compact,          Available
+Pontiac,          2006,          Black,          Mid-Size,          Available
+Lincoln,          2012,          Black,          Mid-Size,          Rented due back in More Than Three Days
+Lincoln,          2003,          White,          Full-Size,          Rented due back in More Than Three Days
+Lincoln,          2001,          Blue,          Mid-Size,          Rented due back in Two Days
+Pontiac,          2005,          Blue,          Compact,          Available
+Ram,          2009,          Black,          Mid-Size,          Rented due back in One Day
+Pontiac,          2010,          Green,          Compact,          Rented due back in Less Than One Day
+Pontiac,          2003,          Blue,          Full-Size,          Rented due back in Less Than One Day
+Pontiac,          1998,          Red,          Full-Size,          Rented due back in Two Days
+Buick,          2005,          Black,          Full-Size,          Available
+Jeep,          2002,          Green,          Compact,          Available
+Pontiac,          2002,          Yellow,          Full-Size,          Available
+Chevrolet,          2002,          White,          Mid-Size,          Rented due back in Two Days
+Cadillac,          2008,          Yellow,          Mid-Size,          Rented due back in Less Than One Day
+Buick,          2005,          Yellow,          Full-Size,          Available
+Ford,          2012,          Gray,          Full-Size,          Rented due back in Two Days
+Ram,          2007,          Green,          Mid-Size,          Available
+Buick,          2000,          White,          Compact,          Available
+Dodge,          2005,          Green,          Compact,          Available
+Ford,          2011,          Black,          Mid-Size,          Available
+Cadillac,          1999,          White,          Compact,          Available
+Pontiac,          2012,          Gray,          Full-Size,          Available
+Ram,          2006,          Red,          Mid-Size,          Rented due back in Two Days
+Chevrolet,          2006,          Blue,          Compact,          Rented due back in One Day
+Ram,          2007,          Green,          Compact,          Rented due back in One Day
+Cadillac,          2004,          Gray,          Compact,          Rented due back in Three Days
+Ram,          1999,          Yellow,          Mid-Size,          Rented due back in Less Than One Day
+Chevrolet,          2007,          Blue,          Full-Size,          Available
+Cadillac,          2000,          Red,          Full-Size,          Rented due back in One Day
+Lincoln,          2002,          Red,          Compact,          Rented due back in Three Days
+Lincoln,          1999,          Red,          Full-Size,          Available
+Chevrolet,          2006,          Yellow,          Full-Size,          Available
+Buick,          2004,          Gray,          Compact,          Rented due back in More Than Three Days
+Dodge,          2008,          Green,          Full-Size,          Rented due back in Two Days
+Pontiac,          2006,          Green,          Full-Size,          Available
+Ram,          2011,          Black,          Compact,          Available
+Chevrolet,          2011,          White,          Mid-Size,          Rented due back in Two Days
+Cadillac,          2002,          Yellow,          Mid-Size,          Rented due back in More Than Three Days
+Ram,          2000,          Black,          Full-Size,          Rented due back in More Than Three Days
+Dodge,          2010,          Black,          Mid-Size,          Rented due back in More Than Three Days
+Pontiac,          2003,          White,          Compact,          Available
+Cadillac,          2001,          Black,          Full-Size,          Available
+Pontiac,          2001,          Green,          Compact,          Available
+Ford,          2010,          Black,          Mid-Size,          Available
+Ford,          2001,          Green,          Mid-Size,          Rented due back in Two Days
+Jeep,          2010,          Gray,          Compact,          Available
+Pontiac,          2010,          Gray,          Full-Size,          Available
+Buick,          2008,          Yellow,          Full-Size,          Rented due back in Less Than One Day
+Buick,          2010,          Yellow,          Mid-Size,          Available
+Jeep,          2003,          Yellow,          Full-Size,          Available
+Lincoln,          2002,          White,          Mid-Size,          Available
+Lincoln,          2003,          Black,          Full-Size,          Rented due back in More Than Three Days
+Lincoln,          2007,          Yellow,          Compact,          Rented due back in More Than Three Days
+Dodge,          2000,          Red,          Compact,          Available
+Dodge,          2005,          Yellow,          Mid-Size,          Available
+Cadillac,          2006,          Red,          Full-Size,          Rented due back in More Than Three Days
+Buick,          2000,          Green,          Full-Size,          Available
+Lincoln,          1999,          Gray,          Full-Size,          Rented due back in Two Days
+Jeep,          2012,          Gray,          Compact,          Available
+Chevrolet,          2009,          Green,          Mid-Size,          Rented due back in One Day
+Jeep,          2000,          Gray,          Full-Size,          Rented due back in More Than Three Days
+Cadillac,          2005,          Blue,          Mid-Size,          Available
+Jeep,          2005,          Red,          Compact,          Available
+Jeep,          2012,          White,          Full-Size,          Available
+Lincoln,          2010,          Green,          Compact,          Rented due back in More Than Three Days
+Cadillac,          2002,          Gray,          Full-Size,          Rented due back in More Than Three Days
+Jeep,          2008,          Blue,          Compact,          Available
+Dodge,          2001,          Blue,          Mid-Size,          Available
+Pontiac,          2010,          White,          Mid-Size,          Available
+Cadillac,          2003,          Yellow,          Compact,          Available
+Ford,          2011,          Black,          Full-Size,          Rented due back in Two Days
+Chevrolet,          2003,          White,          Full-Size,          Rented due back in More Than Three Days
+Lincoln,          2007,          White,          Compact,          Available
+Buick,          2011,          White,          Full-Size,          Rented due back in Two Days
+Pontiac,          2009,          White,          Mid-Size,          Available
+Lincoln,          2009,          Black,          Mid-Size,          Available
+Ram,          2001,          Green,          Mid-Size,          Rented due back in Three Days
+Chevrolet,          2001,          Green,          Full-Size,          Available
+Chevrolet,          2002,          Blue,          Mid-Size,          Rented due back in More Than Three Days
+Dodge,          2001,          Red,          Full-Size,          Rented due back in Three Days
+Chevrolet,          2008,          Black,          Full-Size,          Available
+Lincoln,          2008,          Yellow,          Full-Size,          Available
+Buick,          1998,          Black,          Mid-Size,          Rented due back in Three Days
+Lincoln,          1998,          Yellow,          Full-Size,          Available
+Chevrolet,          2007,          Gray,          Compact,          Available
+Jeep,          2000,          Black,          Mid-Size,          Available
+Chevrolet,          2001,          Red,          Full-Size,          Available
+Buick,          2001,          Yellow,          Compact,          Available
+Jeep,          2012,          Yellow,          Full-Size,          Rented due back in More Than Three Days
+Cadillac,          1998,          Blue,          Mid-Size,          Rented due back in More Than Three Days
+Cadillac,          1999,          Yellow,          Compact,          Rented due back in Two Days
+Chevrolet,          2009,          Green,          Mid-Size,          Available
+Ram,          1999,          Black,          Mid-Size,          Available
+Cadillac,          2004,          Gray,          Full-Size,          Rented due back in One Day
+Cadillac,          2008,          Red,          Compact,          Rented due back in Three Days
+Dodge,          2005,          White,          Compact,          Rented due back in Two Days
+Ford,          2002,          Gray,          Full-Size,          Available
+Lincoln,          2006,          Black,          Mid-Size,          Available
+Buick,          2004,          Blue,          Compact,          Available
+Ford,          2003,          Green,          Compact,          Available
+Cadillac,          2004,          Yellow,          Compact,          Rented due back in Two Days
+Lincoln,          2004,          Blue,          Compact,          Available
+Ford,          1998,          Blue,          Mid-Size,          Available
+Dodge,          1999,          Yellow,          Mid-Size,          Available
+Chevrolet,          2007,          Yellow,          Compact,          Rented due back in One Day
+Buick,          2003,          Black,          Mid-Size,          Rented due back in Less Than One Day
+Buick,          2007,          Red,          Full-Size,          Rented due back in Three Days
+Pontiac,          2005,          Blue,          Full-Size,          Available
+Chevrolet,          2004,          Red,          Mid-Size,          Rented due back in One Day
+Chevrolet,          2010,          Black,          Full-Size,          Available
+Cadillac,          2002,          Red,          Mid-Size,          Available
+Pontiac,          2011,          Yellow,          Compact,          Rented due back in Two Days
+Jeep,          1998,          Black,          Mid-Size,          Available
+Cadillac,          2007,          Red,          Compact,          Rented due back in One Day
+Ford,          2007,          Yellow,          Compact,          Rented due back in Two Days
+Chevrolet,          2002,          Gray,          Mid-Size,          Rented due back in One Day
+Lincoln,          2005,          White,          Mid-Size,          Available
+Cadillac,          2012,          White,          Compact,          Available
+Pontiac,          2011,          Black,          Full-Size,          Available
+Ford,          2009,          Green,          Compact,          Available
+Pontiac,          1998,          Green,          Compact,          Available
+Lincoln,          2011,          Red,          Full-Size,          Rented due back in Two Days
+Jeep,          2012,          Black,          Compact,          Available
+Jeep,          2001,          White,          Mid-Size,          Available
+Buick,          2008,          White,          Compact,          Available
+Ram,          2009,          Blue,          Mid-Size,          Rented due back in Less Than One Day
+Pontiac,          2006,          Yellow,          Full-Size,          Available
+Lincoln,          2002,          Blue,          Mid-Size,          Rented due back in More Than Three Days
+Ford,          2002,          Red,          Full-Size,          Rented due back in Two Days
+Dodge,          2004,          White,          Full-Size,          Available
+Ford,          2002,          Black,          Compact,          Rented due back in Three Days
+Buick,          2008,          Red,          Full-Size,          Rented due back in Two Days
+Cadillac,          2012,          Blue,          Compact,          Available
+Jeep,          2011,          Blue,          Mid-Size,          Available
+Ram,          2010,          Red,          Mid-Size,          Rented due back in Two Days
+Buick,          2000,          Black,          Compact,          Rented due back in One Day
+Chevrolet,          2011,          White,          Mid-Size,          Rented due back in Three Days
+Pontiac,          1999,          Yellow,          Compact,          Damaged undergoing repairs Less Than One Day
+Ford,          2009,          Red,          Full-Size,          Rented due back in Two Days
+Chevrolet,          2008,          Red,          Full-Size,          Rented due back in Less Than One Day
+Dodge,          2004,          Blue,          Compact,          Rented due back in Two Days
+Lincoln,          2011,          Black,          Compact,          Rented due back in Less Than One Day
+Jeep,          1999,          Yellow,          Compact,          Available
+Cadillac,          2010,          White,          Compact,          Rented due back in Less Than One Day
+Ram,          2001,          Green,          Mid-Size,          Available
+Dodge,          2008,          Yellow,          Mid-Size,          Available
+Jeep,          1999,          Gray,          Full-Size,          Rented due back in Three Days
+Pontiac,          2005,          White,          Mid-Size,          Rented due back in More Than Three Days
+Chevrolet,          2003,          White,          Compact,          Available
+Dodge,          2002,          Green,          Mid-Size,          Available
+Jeep,          2008,          Green,          Mid-Size,          Rented due back in One Day
+Cadillac,          2009,          White,          Full-Size,          Available
+Lincoln,          2000,          Yellow,          Full-Size,          Rented due back in Three Days
+Lincoln,          2011,          Blue,          Full-Size,          Available
+Cadillac,          2002,          Black,          Mid-Size,          Available
+Ram,          2006,          White,          Mid-Size,          Rented due back in One Day
+Cadillac,          2008,          White,          Full-Size,          Available
+Chevrolet,          2012,          Black,          Mid-Size,          Available
+Ram,          2011,          White,          Mid-Size,          Rented due back in More Than Three Days
+Jeep,          2012,          Black,          Compact,          Rented due back in Two Days
+Lincoln,          2001,          Blue,          Full-Size,          Available
+Ram,          2004,          Red,          Full-Size,          Available
+Chevrolet,          2010,          Yellow,          Mid-Size,          Available
+Ram,          2006,          Green,          Full-Size,          Available
+Buick,          1998,          Red,          Compact,          Rented due back in Two Days
+Buick,          2006,          Gray,          Mid-Size,          Available
+Buick,          2009,          Yellow,          Mid-Size,          Available
+Jeep,          1999,          Green,          Full-Size,          Available
+Lincoln,          2007,          Blue,          Full-Size,          Available
+Lincoln,          2006,          Gray,          Compact,          Available
+Buick,          2002,          Yellow,          Full-Size,          Rented due back in One Day
+Ram,          2003,          Black,          Compact,          Rented due back in One Day
+Chevrolet,          2001,          Red,          Full-Size,          Rented due back in Two Days
+Buick,          2006,          Black,          Mid-Size,          Damaged undergoing repairs Two Days
+Buick,          2002,          Yellow,          Mid-Size,          Rented due back in Two Days
+Ram,          2006,          Black,          Full-Size,          Rented due back in More Than Three Days
+Ford,          2003,          Green,          Full-Size,          Rented due back in Three Days
+Buick,          2010,          Gray,          Mid-Size,          Rented due back in Three Days
+Buick,          2011,          Blue,          Mid-Size,          Available
+Cadillac,          2001,          Red,          Compact,          Rented due back in One Day
+Dodge,          2010,          Green,          Mid-Size,          Available
+Cadillac,          2003,          White,          Compact,          Rented due back in More Than Three Days
+Ram,          2011,          Green,          Full-Size,          Available
+Pontiac,          1998,          Blue,          Compact,          Rented due back in Two Days
+Ford,          2008,          White,          Compact,          Available
+Cadillac,          2001,          Gray,          Compact,          Available
+Jeep,          2011,          Gray,          Full-Size,          Rented due back in Two Days
+Cadillac,          2001,          Gray,          Full-Size,          Available
+Jeep,          1998,          Yellow,          Mid-Size,          Available
+Buick,          2007,          White,          Mid-Size,          Available
+Pontiac,          2005,          Green,          Full-Size,          Rented due back in Three Days
+Buick,          2001,          Blue,          Full-Size,          Rented due back in One Day
+Ram,          2012,          Gray,          Mid-Size,          Available
+Dodge,          2007,          Gray,          Full-Size,          Available
+Ram,          1998,          Yellow,          Full-Size,          Available
+Chevrolet,          2007,          Red,          Compact,          Rented due back in One Day
+Jeep,          2007,          Gray,          Mid-Size,          Available
+Chevrolet,          2003,          Gray,          Compact,          Rented due back in One Day
+Ram,          2004,          Yellow,          Compact,          Available
+Jeep,          2002,          Blue,          Mid-Size,          Rented due back in More Than Three Days
+Chevrolet,          2011,          Black,          Compact,          Available
+Jeep,          2004,          Green,          Mid-Size,          Rented due back in One Day
+Pontiac,          1998,          Black,          Mid-Size,          Rented due back in Three Days
+Ram,          2011,          Red,          Mid-Size,          Rented due back in More Than Three Days
+Buick,          2006,          Gray,          Full-Size,          Damaged undergoing repairs
+Chevrolet,          2004,          Red,          Mid-Size,          Available
+Jeep,          2010,          Yellow,          Compact,          Available
+Ram,          1999,          Red,          Mid-Size,          Rented due back in One Day
+Cadillac,          1999,          Blue,          Mid-Size,          Rented due back in Three Days
+Dodge,          2010,          White,          Full-Size,          Available
+Dodge,          2005,          Red,          Compact,          Rented due back in More Than Three Days
+Pontiac,          2004,          White,          Compact,          Rented due back in Two Days
+Cadillac,          2001,          Red,          Full-Size,          Rented due back in Two Days
+Ford,          2006,          White,          Compact,          Rented due back in One Day
+Dodge,          2004,          Green,          Full-Size,          Available
+Lincoln,          2003,          Gray,          Mid-Size,          Rented due back in More Than Three Days
+Dodge,          2012,          Gray,          Full-Size,          Available
+Cadillac,          2000,          White,          Full-Size,          Rented due back in Two Days
+Jeep,          2004,          Yellow,          Compact,          Rented due back in More Than Three Days
+Pontiac,          2006,          Gray,          Compact,          Rented due back in More Than Three Days
+Chevrolet,          2005,          Black,          Mid-Size,          Available
+Jeep,          2004,          Yellow,          Mid-Size,          Rented due back in Three Days
+Buick,          2000,          Black,          Compact,          Rented due back in Three Days
+Jeep,          2004,          White,          Compact,          Rented due back in Less Than One Day
+Buick,          2012,          Gray,          Compact,          Available
+Chevrolet,          2003,          Yellow,          Compact,          Rented due back in Less Than One Day
+Ford,          2012,          Black,          Compact,          Rented due back in Less Than One Day
+Ford,          2012,          Green,          Mid-Size,          Available
+Ford,          2009,          Green,          Mid-Size,          Available
+Jeep,          2012,          Yellow,          Mid-Size,          Rented due back in One Day
+Dodge,          2000,          Black,          Mid-Size,          Damaged undergoing repairs Two Days
+Cadillac,          2009,          Green,          Compact,          Available
+Chevrolet,          2004,          Red,          Mid-Size,          Rented due back in More Than Three Days
+Pontiac,          1999,          Gray,          Full-Size,          Rented due back in Two Days
+Ford,          2006,          Black,          Mid-Size,          Available
+Lincoln,          2008,          Black,          Mid-Size,          Available
+Lincoln,          2001,          Red,          Compact,          Available
+Chevrolet,          2005,          Yellow,          Full-Size,          Rented due back in Less Than One Day
+Cadillac,          2010,          Red,          Compact,          Available
+Jeep,          1999,          White,          Mid-Size,          Available
+Cadillac,          2011,          Gray,          Mid-Size,          Available
+Pontiac,          2006,          Black,          Compact,          Rented due back in More Than Three Days
+Buick,          2000,          White,          Mid-Size,          Available
+Pontiac,          2003,          Red,          Mid-Size,          Available
+Ford,          2000,          White,          Full-Size,          Available
+Dodge,          2005,          Green,          Full-Size,          Available
+Ford,          2003,          Black,          Compact,          Rented due back in One Day
+Lincoln,          2004,          Black,          Full-Size,          Available
+Buick,          2011,          Gray,          Compact,          Available
+Jeep,          2004,          Black,          Full-Size,          Rented due back in Less Than One Day
+Ford,          2012,          Blue,          Mid-Size,          Available
+Pontiac,          2002,          Black,          Mid-Size,          Available
+Chevrolet,          2000,          Red,          Compact,          Available
+Cadillac,          2012,          Black,          Full-Size,          Rented due back in Three Days
+Lincoln,          2005,          Red,          Mid-Size,          Available
+Chevrolet,          2012,          Gray,          Compact,          Rented due back in Less Than One Day
+Ram,          2000,          Green,          Compact,          Available
+Dodge,          2010,          Blue,          Mid-Size,          Available
+Chevrolet,          2002,          Yellow,          Mid-Size,          Available
+Pontiac,          1998,          Green,          Mid-Size,          Rented due back in Three Days
+Dodge,          1999,          Black,          Full-Size,          Available
+Ram,          1998,          Red,          Mid-Size,          Rented due back in Two Days
+Ford,          2003,          Red,          Full-Size,          Rented due back in One Day
+Pontiac,          2003,          Blue,          Compact,          Rented due back in More Than Three Days
+Dodge,          2006,          Blue,          Compact,          Available
+Buick,          2010,          Blue,          Full-Size,          Available
+Ford,          2003,          Green,          Mid-Size,          Rented due back in One Day
+Chevrolet,          2011,          Blue,          Full-Size,          Rented due back in Two Days
+Pontiac,          1998,          Gray,          Full-Size,          Available
+Dodge,          2010,          Yellow,          Mid-Size,          Available
+Dodge,          2011,          Red,          Compact,          Rented due back in More Than Three Days
+Lincoln,          2001,          Blue,          Full-Size,          Rented due back in More Than Three Days
+Cadillac,          2004,          Green,          Compact,          Rented due back in Three Days
+Lincoln,          1999,          Green,          Mid-Size,          Rented due back in One Day
+Jeep,          2007,          Yellow,          Mid-Size,          Available
+Chevrolet,          2001,          White,          Compact,          Rented due back in Two Days
+Cadillac,          1998,          Gray,          Mid-Size,          Available
+Jeep,          2001,          Red,          Compact,          Rented due back in Less Than One Day
+Cadillac,          2009,          Gray,          Full-Size,          Available
+Lincoln,          2000,          Yellow,          Full-Size,          Available
+Lincoln,          2000,          Green,          Mid-Size,          Rented due back in More Than Three Days
+Ram,          2007,          Green,          Compact,          Rented due back in More Than Three Days
+Buick,          2006,          Yellow,          Full-Size,          Available
+Pontiac,          2007,          Blue,          Mid-Size,          Available
+Dodge,          2007,          Blue,          Mid-Size,          Available
+Ram,          1999,          Green,          Full-Size,          Available
+Cadillac,          2000,          White,          Compact,          Available
+Ford,          2003,          White,          Compact,          Available
+Lincoln,          2004,          Gray,          Mid-Size,          Available
+Chevrolet,          2006,          Blue,          Full-Size,          Available
+Ram,          1998,          Gray,          Mid-Size,          Rented due back in Less Than One Day
+Ford,          2006,          Red,          Mid-Size,          Available
+Ford,          2000,          Yellow,          Mid-Size,          Available
+Chevrolet,          2011,          Gray,          Full-Size,          Rented due back in More Than Three Days
+Jeep,          2009,          Blue,          Mid-Size,          Available
+Cadillac,          1999,          Green,          Full-Size,          Rented due back in More Than Three Days
+Ford,          2006,          Blue,          Full-Size,          Rented due back in More Than Three Days
